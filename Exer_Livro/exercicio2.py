@@ -1,4 +1,4 @@
-"""Escreva um programa qie converta uma temperatura digitada
+"""Escreva um programa que converta uma temperatura digitada
 em C em F. A fórmula"""
 
 celsius = int(input("Digite a temperatura em graus celsius: "))
